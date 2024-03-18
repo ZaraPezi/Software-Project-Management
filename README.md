@@ -3,7 +3,7 @@ The done project is available via this link: **https://docs.google.com/document/
 The Topic of this project is about software project managment of **Automated Artificial Intelligent Customer Service Assistant (AAICS)**
 | Numbers | Members |
 |--------:|---------|
-|        1|         |
+| 1:Leader| Zahra Pezshki|
 |        2|         |
 |        3|         |
-
+|        4|         |
